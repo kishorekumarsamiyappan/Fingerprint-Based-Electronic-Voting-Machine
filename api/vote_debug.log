@@ -1,0 +1,63 @@
+Array
+(
+    [fingerprint_id] => 2
+    [candidate_id] => 1
+    [place] => Erode
+)
+
+Array
+(
+    [fingerprint_id] => 2
+    [candidate_id] => 1
+    [place] => Erode
+)
+
+Array
+(
+    [fingerprint_id] => 2
+    [candidate_id] => 1
+    [place] => Erode
+)
+
+Array
+(
+    [fingerprint_id] => 3
+    [candidate_id] => 2
+    [place] => Erode
+)
+
+Array
+(
+    [fingerprint_id] => 4
+    [candidate_id] => 1
+    [place] => Erode
+)
+
+Array
+(
+    [fingerprint_id] => 2
+    [candidate_id] => 1
+    [place] => Erode
+)
+
+Array
+(
+    [fingerprint_id] => 2
+    [candidate_id] => 3
+    [place] => Coimbatore
+)
+
+Array
+(
+    [fingerprint_id] => 3
+    [candidate_id] => 3
+    [place] => Coimbatore
+)
+
+Array
+(
+    [fingerprint_id] => 2
+    [candidate_id] => 1
+    [place] => Tiruppur
+)
+
